@@ -1,0 +1,40 @@
+nav{
+    background: #000000;
+    color:rgb(255, 255, 255);
+    padding: 10px;
+}
+nav a{
+    color: rgb(211, 125, 161);
+    text-decoration: none;
+    padding:10px 20px;
+}
+nav .active,
+nav a:hover{
+    background: #030303;
+}
+
+/* ID Selector */
+#intro {
+    background: #eb9dca;
+    border: 1px solid #000000;
+    min-height: 100px;
+    padding: 10px;
+}
+#intro h1 {
+    text-align: left;
+    border: 0;
+    color: rgb(255, 255, 255);
+}
+
+/* Class Selector */
+.button {
+    padding: 15px 20px;
+    background: #070707;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+}
+.btn-primary {
+    background: #000000;
+}
