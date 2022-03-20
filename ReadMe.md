@@ -96,7 +96,7 @@ Cara untuk menambahkan sebuah inline pada deklarasi sebelumnya kalian hanya perl
 
 Langkah selanjutnya, disini saya akan membuat sebuah file baru terlebih dahulu dengan judul style_eksternal.css yang kemudian nantinya akan saya deklarasikan kembali seperti dibawah ini.
 
-``` html
+```css
 
 nav{
     background: #000000;
@@ -137,7 +137,7 @@ Langkah terakhir yaitu diakhiri dengan menambahkannya sebuah CSS Selector yang m
 
 Dan untuk dapat menambahkan sebuah CSS Selector maka kalian hanya perlu menambahkan kode berikut pada codingan di file style_eksternal.css seperti dibawah ini.
 
-```html
+```CSS
 
 /* ID Selector */
 #intro {
